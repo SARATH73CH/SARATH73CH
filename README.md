@@ -1,4 +1,11 @@
-## Hi there, I'm Sarath! 👋
+# 👋 Hi, I'm Sarath
+
+### Software Engineer — Full-Stack Developer | Mobile Applications
+
+I'm a Software Engineer specializing in Flutter mobile app development and backend engineering with PHP, Laravel, and MySQL. I build scalable, user-centered applications with clean architecture and seamless integrations.
+
+
+<!-- ## Hi there, I'm Sarath! 👋
 
 ### 🚀 Mobile Developer | Flutter Enthusiast
 
@@ -18,4 +25,4 @@ I'm a mobile developer specializing in Dart and Flutter. I focus on writing clea
 <!---
 SPMDEV01/SPMDEV01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+---> -->
