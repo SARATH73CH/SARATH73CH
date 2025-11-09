@@ -9,9 +9,7 @@ I'm a Software Engineer specializing in Flutter mobile app development and backe
 
 ### 🚀 Mobile Developer | Flutter Enthusiast
 
----
-
-I'm a mobile developer specializing in Dart and Flutter. I focus on writing clean, efficient, and maintainable code. I love creating beautiful and high-performance applications. I'm passionate about learning new technologies and improving my skills.
+I'm a mobile developer specializing in Dart and Flutter. I focus on writing clean, efficient, and maintainable code. I love creating beautiful and high-performance applications. I'm passionate about learning new technologies and improving my skills. -->
 
 
 <!-- - 👋 Hi, I’m @SPMDEV01
@@ -22,7 +20,6 @@ I'm a mobile developer specializing in Dart and Flutter. I focus on writing clea
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<!---
-SPMDEV01/SPMDEV01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----> -->
+
+<!-- SPMDEV01/SPMDEV01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes. -->
